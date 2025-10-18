@@ -28,10 +28,10 @@ EECE798S_C3/
     ├── business_summary.txt # Text summary about the company
     ├── about_business.pdf # Detailed company info
 ├── .env # Contains the OpenAI API key (not uploaded)
-├── customer_leads.log # Automatically created when leads are recorded (available after askign a question that requires to crete it)
-├── feedback.log # Automatically created when feedback is logged (available after askign a question that requires to crete it)
-├── site_visits.log # Automatically created when site visits are logged (available after askign a question that requires to crete it)
-├── quotes.log # Automatically created when quotes are logged (available after askign a question that requires to crete it)
+├── customer_leads.log # Automatically created when leads are recorded (available after asking a question that requires to crete it)
+├── feedback.log # Automatically created when feedback is logged (available after asking a question that requires to crete it)
+├── site_visits.log # Automatically created when site visits are logged (available after asking a question that requires to crete it)
+├── quotes.log # Automatically created when quotes are logged (available after asking a question that requires to crete it)
 ├── c3.mp4 #
 └── README.md # Project documentation
 ```
