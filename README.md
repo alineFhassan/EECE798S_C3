@@ -18,6 +18,7 @@ It can:
 ---
 
 ## 🧩 Project Structure
+```bash
 EECE798S_C3/
 │
 ├── app.py # Main app for Hugging Face Spaces deployment
@@ -33,7 +34,7 @@ EECE798S_C3/
 ├── quotes.log # Automatically created when quotes are logged (available after askign a question that requires to crete it)
 ├── c3.mp4 #
 └── README.md # Project documentation
-
+```
 ## ⚙️ Installation and Setup (Local or Colab)
 
 ### 1. Clone or upload the project
